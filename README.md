@@ -1,2 +1,2 @@
 # firmwares
-Firmwares database
+> Firmware database and backups, each file working fine!
